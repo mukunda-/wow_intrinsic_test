@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: intrinsic test
+## Notes: aaa
+## Author: mukunda
+## Version: 1.0.0
+
+MyElement.xml
+MyFrame.xml
+test.lua

@@ -1,0 +1,26 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">
+
+  <Frame name="MyFrame" intrinsic="true">
+
+    <Size x="200" y="200"/>
+    <Anchors>
+      <Anchor point="CENTER"/>
+    </Anchors>
+   
+    <Frames>
+      <MyElement>
+        <Size x="20" y="20"/>
+        <Anchor point="CENTER"/>
+      </MyElement>
+    </Frames>
+  
+  </Frame>
+</Ui>
+
+
+
+
+
+
+
+
